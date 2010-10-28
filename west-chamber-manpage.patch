@@ -1,7 +1,7 @@
 --- west-chamber-20100329/xtables-addons.8.in	2010-02-17 03:17:37.488265000 +0800
 +++ west-chamber-0.0.1/xtables-addons.8.in	2010-03-29 13:55:48.376922724 +0800
 @@ -1,6 +1,6 @@
--.TH xtables-addons 8 "v1.22 (2010-01-22)" "" "v1.22 (2010-11-22)"
+-.TH xtables-addons 8 "v1.30 (2010-10-02)" "" "v1.30 (2010-10-02)"
 +.TH west-chamber 8 "v0.0.1 (2010-03-10)" "" "v0.0.1 (2010-03-10)"
  .SH Name
 -Xtables-addons \(em additional extensions for iptables, ip6tables, etc.
