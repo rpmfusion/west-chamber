@@ -4,7 +4,7 @@
 Name:		west-chamber
 Summary:	Extensions named after Romance of the West Chamber for iptables
 Version:	0.0.1
-Release:	8.%{?svndate}svn%{?dist}
+Release:	9.%{?svndate}svn%{?dist}
 License:	GPLv2+
 Group:		System Environment/Base
 URL:		http://code.google.com/p/scholarzhang/
@@ -61,6 +61,9 @@ rm -rf %{buildroot}
 %{_mandir}/man8/*
 
 %changelog
+* Sun Mar 03 2013 Nicolas Chauvet <kwizart@gmail.com> - 0.0.1-9.20101017svn
+- Mass rebuilt for Fedora 19 Features
+
 * Wed Jul 04 2012 Nicolas Chauvet <kwizart@gmail.com> - 0.0.1-8.20101017svn
 - Rebuilt for late F-17 mass-rebuilt
 
